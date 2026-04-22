@@ -1,0 +1,19 @@
+[04-17 07:08:36] [login.cc:52] GetUserRequest failed with status 16: No session provided 
+[04-17 07:12:20] [login.cc:52] GetUserRequest failed with status 16: No session provided 
+[04-20 14:22:19] [spec.cc:872] Malformed LSP headers: Content-Length: 46
+
+
+[04-20 14:22:19] [spec.cc:873] Malformed LSP content:                                               
+[04-20 14:22:19] [message_receiver.cc:28] Failed to parse message: [json.exception.parse_error.101] parse error at line 1, column 47: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+[04-20 14:22:19] [shared_server_context.hh:133] Message processing failed: [json.exception.parse_error.101] parse error at line 1, column 47: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+[04-22 14:33:36] [login.cc:52] GetUserRequest failed with status 16: No session provided 
+[04-22 17:54:47] [client.cc:19] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:39455: WSAGetOverlappedResult: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)
+[04-22 17:54:47] [client.cc:19] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:39455: WSAGetOverlappedResult: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)
+[04-22 17:54:53] [login.cc:52] GetUserRequest failed with status 16: No session provided 
+[04-22 18:17:40] [client.cc:19] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50141: WSAGetOverlappedResult: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)
+[04-22 18:17:40] [client.cc:19] GRPC Failed (error code UNAVAILABLE): failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50141: WSAGetOverlappedResult: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)
+[04-22 18:17:45] [login.cc:52] GetUserRequest failed with status 16: No session provided 

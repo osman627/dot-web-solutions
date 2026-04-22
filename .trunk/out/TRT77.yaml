@@ -1,0 +1,41 @@
+trunk_cli_version: 1.25.0
+title: Check [[on-demand] [prettier:format:app\layout.tsx:HEAD]]
+report:
+  - linter:
+      command: |
+        'C:/Users/nasee/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin\sh.exe' 'C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/node_modules/.bin\prettier' -w 'app\layout.tsx'
+      stdin_path: (none)
+      run_from: C:\Users\nasee\AppData\Local\Temp\trunk\jwwlezj\hmblsct\
+      timeout: 10m
+      rerun: (cd C:\Users\nasee\AppData\Local\Temp\trunk\jwwlezj\hmblsct\; env -i 'COMSPEC=C:\WINDOWS\system32\cmd.exe' HOME= 'NODE_PATH=C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/node_modules' 'PATH=C:/Users/nasee/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin;C:/Users/nasee/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/usr/bin;C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/node_modules/.bin;C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin;C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c;C:\Users\nasee\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin;C:\Users\nasee\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/usr/bin;C:\Users\nasee\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\nasee\AppData\Local\Programs\Python\Launcher\;C:\Users\nasee\AppData\Local\Microsoft\WindowsApps;C:\Users\nasee\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\nasee\AppData\Roaming\npm;C:\Program Files (x86)\Nmap' 'C:/Users/nasee/AppData/Local/trunk/tools/git-bash/2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin\sh.exe' 'C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/node_modules/.bin\prettier' -w 'app\layout.tsx')
+      affects_cache:
+        - package.json
+      direct_configs:
+        []
+      exit_status: exited
+      exit_code: 0
+      stdout: |
+        app/layout.tsx 845ms
+
+      stderr: (none)
+    parser:
+      command: |
+        'C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070\python3.exe' C:/Users/nasee/AppData/Local/trunk/plugins/https---github-com-trunk-io-plugins/v1.7.6-4ebadccd80b22638/linters/prettier/prettier_to_sarif.py 0
+      stdin_path: (none)
+      run_from: C:\Users\nasee\AppData\Local\Temp\trunk\jwwlezj\hmblsct\
+      timeout: 10m
+      rerun: (cd C:\Users\nasee\AppData\Local\Temp\trunk\jwwlezj\hmblsct\; env -i 'Path=C:\Users\nasee\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\nasee\AppData\Local\Programs\Python\Launcher\;C:\Users\nasee\AppData\Local\Microsoft\WindowsApps;C:\Users\nasee\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\nasee\AppData\Roaming\npm;C:\Program Files (x86)\Nmap' 'NODE_PATH=C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/node_modules' 'COMSPEC=C:\WINDOWS\system32\cmd.exe' HOME= 'SYSTEMROOT=C:\WINDOWS' 'PATH=C:\Users\nasee\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin;C:\Users\nasee\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/usr/bin;C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin;C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts;C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin;C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070;C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/node_modules/.bin;C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin;C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c;C:\Users\nasee\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/bin;C:\Users\nasee\AppData\Local\trunk\tools\git-bash\2.40.1-da0c3e1526d36e62bf43d06ec46c5052/usr/bin;C:\Users\nasee\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\Eclipse Adoptium\jdk-21.0.3.9-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\nasee\AppData\Local\Programs\Python\Launcher\;C:\Users\nasee\AppData\Local\Microsoft\WindowsApps;C:\Users\nasee\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\nasee\AppData\Roaming\npm;C:\Program Files (x86)\Nmap' PYTHONUTF8=1 'VIRTUAL_ENV=C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9' 'HOMEPATH=\Users\nasee' 'SystemRoot=C:\WINDOWS' 'windir=C:\WINDOWS' 'APPDATA=C:\Users\nasee\AppData\Roaming' 'LOCALAPPDATA=C:\Users\nasee\AppData\Local' 'USERPROFILE=C:\Users\nasee' 'TMP=C:\Users\nasee\AppData\Local\Temp' 'TEMP=C:\Users\nasee\AppData\Local\Temp' 'C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070\python3.exe' C:/Users/nasee/AppData/Local/trunk/plugins/https---github-com-trunk-io-plugins/v1.7.6-4ebadccd80b22638/linters/prettier/prettier_to_sarif.py 0)
+      exit_status: exited
+      exit_code: 0
+      stdout: |
+        {
+          "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
+          "version": "2.1.0",
+          "runs": [
+            {
+              "results": []
+            }
+          ]
+        }
+
+      stderr: (none)

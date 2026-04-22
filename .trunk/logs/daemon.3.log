@@ -1,0 +1,526 @@
+[2026-04-22 16:04:32.383] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:04:32.407] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:04:32.408] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:04:32.409] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:04:32.585] [global] [info] [cache.cc:1117] [monitor] [trufflehog:lint:package-lock.json:HEAD] Linter ran in 5624ms
+[2026-04-22 16:04:37.368] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:37.368] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:39.646] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:39.646] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:40.524] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:40.524] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:41.261] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:41.261] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:44.473] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:04:44.473] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:00.526] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:00.526] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:05.002] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:05.002] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:13.280] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:13.280] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:14.547] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:14.547] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:18.513] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:18.513] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:20.483] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:20.483] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:25.514] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:25.514] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:28.395] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:28.395] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:30.785] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:30.786] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:31.291] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:31.292] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:34.421] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:34.421] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:39.857] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:05:39.857] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:02.500] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:02.501] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:03.635] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:03.635] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:05.593] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:05.594] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:07.099] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:07.101] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:11.508] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:11.509] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:13.103] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:07:13.103] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:09:44.545] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:09:44.548] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:09:46.827] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:09:46.828] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:57.541] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2026-04-22 16:18:57.856] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:57.857] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:58.044] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:58.044] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:58.044] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:58.312] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=43 with the following options:
+cache_enabled: true, num_jobs: 6, session_type: 4, client_id: lsp-proxy, scope: 1
+[2026-04-22 16:18:58.513] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2026-04-22 16:18:58.526] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2026-04-22 16:18:58.770] [global] [info] [cache.cc:974] [monitor] [trufflehog:lint:components\portfolio-section.tsx:HEAD] running linter (cache-key:a6ef21e48e0d0136df9d41f45621905e)
+[2026-04-22 16:18:58.850] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:58.850] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:58.850] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:18:59.163] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2026-04-22 16:18:59.170] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=43] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2026-04-22 16:18:59.174] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=43] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2026-04-22 16:18:59.176] [global] [info] [service.cc:528] [user-agent= sid=43] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2026-04-22 16:18:59.208] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 16:18:59.212] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:upstream] running linter (uncacheable)
+[2026-04-22 16:18:59.220] [global] [info] [cache.cc:959] [on-demand] [trufflehog:lint:components\portfolio-section.tsx:HEAD] linting in progress, waiting (cache-key:a6ef21e48e0d0136df9d41f45621905e)
+[2026-04-22 16:18:59.227] [global] [info] [cache.cc:934] [on-demand] [trufflehog:lint:components\portfolio-section.tsx:upstream] already cached, not running linter
+[2026-04-22 16:18:59.233] [global] [info] [cache.cc:978] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 16:18:59.592] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:HEAD] Linter ran in 383ms
+[2026-04-22 16:18:59.654] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:upstream] Linter ran in 442ms
+[2026-04-22 16:19:00.131] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:19:00.131] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:19:01.450] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:19:01.450] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:19:02.622] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.622] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.622] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.622] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.622] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.622] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.623] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.624] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.624] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:19:02.919] [global] [info] [cache.cc:1117] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] Linter ran in 3594ms
+[2026-04-22 16:19:04.002] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:19:04.002] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:19:06.264] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.264] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.264] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.265] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.265] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.265] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.265] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.265] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.265] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:19:06.440] [global] [info] [cache.cc:1117] [monitor] [trufflehog:lint:components\portfolio-section.tsx:HEAD] Linter ran in 7658ms
+[2026-04-22 16:19:06.646] [global] [info] [service.cc:528] [user-agent= sid=43] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2026-04-22 16:19:06.650] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=43] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2026-04-22 16:19:06.658] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=43] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2026-04-22 16:19:06.666] [global] [info] [service.cc:256] lint session ended sid=43
+[2026-04-22 16:19:06.666] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=43] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:19:06.668] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=43] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:19:06.668] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:19:06.721] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:21:31.151] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:21:31.153] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:22:52.595] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:22:52.598] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:22:53.395] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:22:53.395] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:22:53.859] [global] [info] [cache.cc:934] [monitor] [trufflehog:lint:package-lock.json:HEAD] already cached, not running linter
+[2026-04-22 16:22:55.651] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:22:55.651] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:23:22.040] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:23:22.041] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:23:22.555] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:23:22.555] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:23:26.172] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:23:26.172] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:08.300] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:08.301] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:10.384] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:10.385] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:13.014] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:13.014] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:14.984] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:14.986] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:15.664] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:15.664] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:16.705] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:16.705] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:17.441] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:17.441] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:18.824] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:18.824] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:19.804] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:19.804] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:20.376] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:20.376] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:22.366] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:24:22.466] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:42.678] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2026-04-22 16:25:43.129] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:43.130] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:43.130] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:43.294] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=44 with the following options:
+cache_enabled: true, num_jobs: 6, session_type: 4, client_id: lsp-proxy, scope: 1
+[2026-04-22 16:25:43.505] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2026-04-22 16:25:43.517] [global] [info] [service.cc:488] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::FormatBuffers(grpc::ServerContext *, const proto::v1::FormatBuffersRequest *, proto::v1::FormatBuffersResponse *)
+[2026-04-22 16:25:43.814] [global] [info] [cache.cc:978] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 16:25:43.930] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:43.931] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:44.146] [global] [info] [cache.cc:934] [monitor] [trufflehog:lint:components\portfolio-section.tsx:HEAD] already cached, not running linter
+[2026-04-22 16:25:45.262] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.262] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.262] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.262] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.262] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.262] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.263] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.263] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.263] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:45.472] [global] [info] [cache.cc:1117] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] Linter ran in 1555ms
+[2026-04-22 16:25:45.544] [global] [info] [service.cc:488] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::FormatBuffers(grpc::ServerContext *, const proto::v1::FormatBuffersRequest *, proto::v1::FormatBuffersResponse *) status=OK
+[2026-04-22 16:25:45.547] [global] [info] [service.cc:256] lint session ended sid=44
+[2026-04-22 16:25:45.547] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=44] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:25:45.549] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=44] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:25:45.549] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:25:45.576] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:25:45.609] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2026-04-22 16:25:45.741] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:45.742] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:45.742] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:45.826] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=45 with the following options:
+cache_enabled: true, num_jobs: 6, session_type: 4, client_id: lsp-proxy, scope: 1
+[2026-04-22 16:25:46.028] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2026-04-22 16:25:46.030] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2026-04-22 16:25:46.172] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:46.172] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:46.172] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:46.294] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2026-04-22 16:25:46.301] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=45] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2026-04-22 16:25:46.304] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=45] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2026-04-22 16:25:46.306] [global] [info] [service.cc:528] [user-agent= sid=45] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2026-04-22 16:25:46.322] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:upstream] running linter (uncacheable)
+[2026-04-22 16:25:46.322] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 16:25:46.331] [global] [info] [cache.cc:934] [on-demand] [trufflehog:lint:components\portfolio-section.tsx:HEAD] already cached, not running linter
+[2026-04-22 16:25:46.333] [global] [info] [cache.cc:934] [on-demand] [trufflehog:lint:components\portfolio-section.tsx:upstream] already cached, not running linter
+[2026-04-22 16:25:46.341] [global] [info] [cache.cc:978] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 16:25:46.488] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:HEAD] Linter ran in 165ms
+[2026-04-22 16:25:46.519] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:upstream] Linter ran in 197ms
+[2026-04-22 16:25:46.874] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2026-04-22 16:25:47.007] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.007] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.007] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.132] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=46 with the following options:
+cache_enabled: true, num_jobs: 6, session_type: 4, client_id: lsp-proxy, scope: 1
+[2026-04-22 16:25:47.329] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.329] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.342] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2026-04-22 16:25:47.345] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2026-04-22 16:25:47.542] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.542] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.542] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.575] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.576] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:47.607] [global] [info] [cache.cc:934] [monitor] [trufflehog:lint:components\portfolio-section.tsx:HEAD] already cached, not running linter
+[2026-04-22 16:25:47.731] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2026-04-22 16:25:47.738] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=46] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2026-04-22 16:25:47.742] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=46] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2026-04-22 16:25:47.745] [global] [info] [service.cc:335] [user-agent= sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *)
+[2026-04-22 16:25:47.858] [global] [info] [service.cc:335] [user-agent= sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::CancelFiles(grpc::ServerContext *, const proto::v1::CancelFilesRequest *, proto::v1::CancelFilesResponse *) status=OK
+[2026-04-22 16:25:47.862] [global] [info] [service.cc:528] [user-agent= sid=46] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2026-04-22 16:25:47.880] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 16:25:47.943] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:upstream] running linter (uncacheable)
+[2026-04-22 16:25:47.951] [global] [info] [cache.cc:934] [on-demand] [trufflehog:lint:components\portfolio-section.tsx:upstream] already cached, not running linter
+[2026-04-22 16:25:47.953] [global] [info] [cache.cc:934] [on-demand] [trufflehog:lint:components\portfolio-section.tsx:HEAD] already cached, not running linter
+[2026-04-22 16:25:47.960] [global] [info] [cache.cc:978] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 16:25:48.202] [global] [info] [service.cc:528] [user-agent= sid=45] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2026-04-22 16:25:48.209] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=45] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2026-04-22 16:25:48.227] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=45] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2026-04-22 16:25:48.235] [global] [info] [service.cc:256] lint session ended sid=45
+[2026-04-22 16:25:48.235] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=45] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:25:48.241] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=45] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:25:48.241] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:25:48.275] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:25:48.387] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:HEAD] Linter ran in 506ms
+[2026-04-22 16:25:48.407] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:components\portfolio-section.tsx:upstream] Linter ran in 462ms
+[2026-04-22 16:25:48.904] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:48.904] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.512] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 16:25:49.676] [global] [info] [cache.cc:1117] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] Linter ran in 1599ms
+[2026-04-22 16:25:49.907] [global] [info] [service.cc:528] [user-agent= sid=46] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2026-04-22 16:25:49.908] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=46] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2026-04-22 16:25:49.911] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=46] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2026-04-22 16:25:49.915] [global] [info] [service.cc:256] lint session ended sid=46
+[2026-04-22 16:25:49.915] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=46] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:25:49.917] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=46] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:25:49.917] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 16:25:49.943] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 16:25:51.050] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:51.050] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:56.029] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:56.029] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:58.132] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:25:58.132] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:19.683] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:19.683] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:21.830] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:21.830] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:29.850] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:29.850] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:31.805] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 16:26:31.805] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:03:27.793] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:03:27.793] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:03:29.884] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:03:29.885] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:03:34.144] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:03:34.144] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:06:09.460] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:06:09.465] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:06:11.417] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:06:11.417] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:06:13.502] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:06:13.502] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:02.865] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2026-04-22 17:08:03.186] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:03.186] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:03.187] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:03.402] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=47 with the following options:
+cache_enabled: true, num_jobs: 6, session_type: 4, client_id: lsp-proxy, scope: 1
+[2026-04-22 17:08:03.607] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2026-04-22 17:08:03.621] [global] [info] [service.cc:488] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::FormatBuffers(grpc::ServerContext *, const proto::v1::FormatBuffersRequest *, proto::v1::FormatBuffersResponse *)
+[2026-04-22 17:08:03.952] [global] [info] [cache.cc:978] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 17:08:05.375] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.375] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.375] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.375] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.375] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.375] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.376] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.376] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.376] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:08:05.604] [global] [info] [cache.cc:1117] [on-demand] [prettier:format:components\portfolio-section.tsx:HEAD] Linter ran in 1570ms
+[2026-04-22 17:08:05.674] [global] [info] [service.cc:488] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::FormatBuffers(grpc::ServerContext *, const proto::v1::FormatBuffersRequest *, proto::v1::FormatBuffersResponse *) status=OK
+[2026-04-22 17:08:05.681] [global] [info] [service.cc:256] lint session ended sid=47
+[2026-04-22 17:08:05.682] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=47] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 17:08:05.684] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=47] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 17:08:05.684] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 17:08:05.708] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 17:08:41.093] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:41.094] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:41.349] [global] [info] [cache.cc:939] Unable to deserialize [monitor] [trufflehog:lint:app\projects\bloom\page.tsx:HEAD], removing from cache
+[2026-04-22 17:08:41.350] [global] [info] [cache.cc:974] [monitor] [trufflehog:lint:app\projects\bloom\page.tsx:HEAD] running linter (cache-key:9d7b9317dc0081175231f01930d1755b)
+[2026-04-22 17:08:41.353] [global] [info] [cache.cc:939] Unable to deserialize [monitor] [trufflehog:lint:app\projects\fitness\page.tsx:HEAD], removing from cache
+[2026-04-22 17:08:41.354] [global] [info] [cache.cc:974] [monitor] [trufflehog:lint:app\projects\fitness\page.tsx:HEAD] running linter (cache-key:fd25481b65ce213b1c31d8013d34caea)
+[2026-04-22 17:08:41.357] [global] [info] [cache.cc:939] Unable to deserialize [monitor] [trufflehog:lint:app\projects\page.tsx:HEAD], removing from cache
+[2026-04-22 17:08:41.358] [global] [info] [cache.cc:974] [monitor] [trufflehog:lint:app\projects\page.tsx:HEAD] running linter (cache-key:9ac832528eebe3ec4ad63c0115669d81)
+[2026-04-22 17:08:44.573] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:44.574] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:08:47.535] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.535] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.535] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.535] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.535] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.535] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.535] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.536] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.536] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:08:47.726] [global] [info] [cache.cc:1117] [monitor] [trufflehog:lint:app\projects\bloom\page.tsx... (3 files):HEAD] Linter ran in 6353ms
+[2026-04-22 17:10:06.814] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:06.815] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:07.104] [global] [info] [cache.cc:934] [monitor] [trufflehog:lint:app\projects\fitness\page.tsx:HEAD] already cached, not running linter
+[2026-04-22 17:10:07.106] [global] [info] [cache.cc:934] [monitor] [trufflehog:lint:app\projects\page.tsx:HEAD] already cached, not running linter
+[2026-04-22 17:10:08.363] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:08.363] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:11.002] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:11.003] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:17.000] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:17.000] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:17.243] [global] [info] [runner.cc:154] Executing action trunk-upgrade-available.schedule.1h
+[2026-04-22 17:10:19.297] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:19.297] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:19.323] [global] [info] [grpc.cc:22] RX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *)
+[2026-04-22 17:10:19.395] [global] [info] [cli_upgrade.cc:85] Checking for latest trunk prod version...
+[2026-04-22 17:10:19.400] [global] [info] [plugin_upgrade.cc:71] Querying latest version for plugin trunk
+[2026-04-22 17:10:19.812] [global] [info] [cache.cc:934] [monitor] [trufflehog:lint:app\projects\page.tsx:HEAD] already cached, not running linter
+[2026-04-22 17:10:19.932] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:19.932] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:20.744] [global] [warning] [release.cc:76] Querying ReleaseVersionService failed with message Endpoint is deprecated
+[2026-04-22 17:10:20.829] [global] [info] [cli_upgrade.cc:92] Successfully fetched latest trunk 1.25.0 version: prod
+[2026-04-22 17:10:21.664] [global] [warning] [release.cc:142] Querying validated version from ReleaseVersionService failed with message Endpoint is deprecated
+[2026-04-22 17:10:21.667] [global] [info] [linter.cc:1078] Validated version for checkov not provided, or bypassed. Using fallback
+[2026-04-22 17:10:21.667] [global] [info] [linter.cc:1078] Validated version for oxipng not provided, or bypassed. Using fallback
+[2026-04-22 17:10:21.668] [global] [info] [linter.cc:1078] Validated version for osv-scanner not provided, or bypassed. Using fallback
+[2026-04-22 17:10:21.669] [global] [info] [linter.cc:1078] Validated version for prettier not provided, or bypassed. Using fallback
+[2026-04-22 17:10:21.677] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin\npm.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:10:21.677] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin\npm // 3:The system cannot find the path specified.
+[2026-04-22 17:10:21.678] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin\npm.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:10:22.412] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:22.412] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:22.619] [global] [info] [linter.cc:1078] Validated version for svgo not provided, or bypassed. Using fallback
+[2026-04-22 17:10:22.621] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin\npm.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:10:22.621] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin\npm // 3:The system cannot find the path specified.
+[2026-04-22 17:10:22.621] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\node\22.16.0-12da8a4c27b144aedaf7d975e067667c/bin\npm.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:10:22.994] [global] [warning] [release.cc:76] Querying ReleaseVersionService failed with message Endpoint is deprecated
+[2026-04-22 17:10:23.002] [global] [warning] [release.cc:76] Querying ReleaseVersionService failed with message Endpoint is deprecated
+[2026-04-22 17:10:23.440] [global] [info] [linter.cc:1078] Validated version for trufflehog not provided, or bypassed. Using fallback
+[2026-04-22 17:10:23.507] [global] [info] [linter.cc:1078] Validated version for yamllint not provided, or bypassed. Using fallback
+[2026-04-22 17:10:23.569] [global] [info] [linter.cc:1791] Found config in plugin repo at C:\Users\nasee\AppData\Local\trunk\plugins\https---github-com-trunk-io-plugins\v1.7.6-4ebadccd80b22638\linters\yamllint\.yamllint.yaml
+[2026-04-22 17:10:24.568] [global] [warning] [release.cc:76] Querying ReleaseVersionService failed with message Endpoint is deprecated
+[2026-04-22 17:10:24.981] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:24.981] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:26.498] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:26.498] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:28.104] [global] [info] [grpc.cc:26] TX:virtual grpc::Status trunk::cli::UpgradeService::GetAvailableUpgrades(grpc::ServerContext *, const upgrade::proto::v1::GetAvailableUpgradesRequest *, grpc::ServerWriter<upgrade::proto::v1::GetAvailableUpgradesResponse> *) status=OK
+[2026-04-22 17:10:28.277] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:28.277] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:30.813] [global] [info] [notification_manager.cc:37] Writing to C:\Users\nasee\Downloads\b_0s2Osh2Ccdb\.trunk\notifications\trunk-upgrade.yaml
+[2026-04-22 17:10:30.930] [global] [info] [notification_manager.cc:84] Reading from C:\Users\nasee\Downloads\b_0s2Osh2Ccdb\.trunk\notifications\trunk-upgrade.yaml
+[2026-04-22 17:10:31.007] [global] [info] [service.cc:162] Writing notification state to file
+[2026-04-22 17:10:31.710] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:31.710] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:35.756] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:35.756] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:36.903] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:10:36.903] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:21.372] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2026-04-22 17:11:21.655] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:21.655] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:21.656] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:21.832] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=48 with the following options:
+cache_enabled: true, num_jobs: 6, session_type: 4, client_id: lsp-proxy, scope: 1
+[2026-04-22 17:11:22.040] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2026-04-22 17:11:22.046] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2026-04-22 17:11:22.303] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:22.303] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:22.303] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:22.429] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2026-04-22 17:11:22.434] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=48] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2026-04-22 17:11:22.436] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=48] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2026-04-22 17:11:22.438] [global] [info] [service.cc:528] [user-agent= sid=48] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2026-04-22 17:11:22.463] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:.vscode\settings.json:HEAD] running linter (uncacheable)
+[2026-04-22 17:11:22.464] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:.vscode\settings.json:upstream] running linter (uncacheable)
+[2026-04-22 17:11:22.482] [global] [info] [cache.cc:978] [on-demand] [checkov:lint:.vscode\settings.json:HEAD] running linter (uncacheable)
+[2026-04-22 17:11:22.483] [global] [info] [cache.cc:939] Unable to deserialize [on-demand] [trufflehog:lint:.vscode\settings.json:HEAD], removing from cache
+[2026-04-22 17:11:22.485] [global] [info] [cache.cc:939] Unable to deserialize [on-demand] [trufflehog:lint:.vscode\settings.json:upstream], removing from cache
+[2026-04-22 17:11:22.485] [global] [info] [cache.cc:974] [on-demand] [trufflehog:lint:.vscode\settings.json:HEAD] running linter (cache-key:f7fce290a890d78a2c23aaf992ea8cf3)
+[2026-04-22 17:11:22.485] [global] [info] [cache.cc:959] [on-demand] [trufflehog:lint:.vscode\settings.json:upstream] linting in progress, waiting (cache-key:f7fce290a890d78a2c23aaf992ea8cf3)
+[2026-04-22 17:11:22.486] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\checkov\3.2.521-3adf90f2e186ddf3af35d1baa7a5d166/bin\checkov.cmd.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:22.486] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\checkov\3.2.521-3adf90f2e186ddf3af35d1baa7a5d166/bin\checkov.cmd // 3:The system cannot find the path specified.
+[2026-04-22 17:11:22.486] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\checkov\3.2.521-3adf90f2e186ddf3af35d1baa7a5d166/bin\checkov.cmd.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:22.486] [global] [error] [tool.cc:105] Error encountered while renaming tool shim C:\Users\nasee\AppData\Local\trunk\repos\14670feb79fa4ff8dd444dad93b918d5\tools\prettier-dy9Rl to C:\Users\nasee\AppData\Local\trunk\repos\14670feb79fa4ff8dd444dad93b918d5\tools\prettier.bat: The process cannot access the file because it is being used by another process.
+[2026-04-22 17:11:22.692] [global] [info] [cache.cc:978] [on-demand] [prettier:format:.vscode\settings.json:HEAD] running linter (uncacheable)
+[2026-04-22 17:11:22.774] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:.vscode\settings.json:HEAD] Linter ran in 310ms
+[2026-04-22 17:11:22.777] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:.vscode\settings.json:upstream] Linter ran in 312ms
+[2026-04-22 17:11:22.782] [global] [info] [cache.cc:978] [on-demand] [checkov:lint:.vscode\settings.json:upstream] running linter (uncacheable)
+[2026-04-22 17:11:22.784] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\checkov\3.2.521-3adf90f2e186ddf3af35d1baa7a5d166/bin\checkov.cmd.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:22.784] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\checkov\3.2.521-3adf90f2e186ddf3af35d1baa7a5d166/bin\checkov.cmd // 3:The system cannot find the path specified.
+[2026-04-22 17:11:22.784] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\checkov\3.2.521-3adf90f2e186ddf3af35d1baa7a5d166/bin\checkov.cmd.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.904] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.904] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.904] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.904] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.904] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.905] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.905] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.905] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:11:23.905] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:24.108] [global] [info] [cache.cc:1117] [on-demand] [prettier:format:.vscode\settings.json:HEAD] Linter ran in 1347ms
+[2026-04-22 17:11:28.858] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.858] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.858] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.859] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.859] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.859] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.859] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.859] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:11:28.859] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:11:29.054] [global] [info] [cache.cc:1117] [on-demand] [trufflehog:lint:.vscode\settings.json:HEAD] Linter ran in 6563ms
+[2026-04-22 17:11:31.195] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:31.195] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:34.352] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:34.352] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:40.496] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:40.497] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:42.775] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:42.775] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:11:51.420] [global] [info] [cache.cc:1117] [on-demand] [checkov:lint:.vscode\settings.json:HEAD] Linter ran in 28937ms
+[2026-04-22 17:11:52.919] [global] [info] [cache.cc:1117] [on-demand] [checkov:lint:.vscode\settings.json:upstream] Linter ran in 30136ms
+[2026-04-22 17:11:53.135] [global] [info] [service.cc:528] [user-agent= sid=48] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2026-04-22 17:11:53.139] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=48] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2026-04-22 17:11:53.142] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=48] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2026-04-22 17:11:53.149] [global] [info] [service.cc:256] lint session ended sid=48
+[2026-04-22 17:11:53.149] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=48] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 17:11:53.150] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=48] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 17:11:53.150] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 17:11:53.180] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 17:12:03.268] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:03.268] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:06.235] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:06.235] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:33.507] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *)
+[2026-04-22 17:12:33.773] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:33.773] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:33.773] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:33.812] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:33.812] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:33.927] [global] [info] [service.cc:227] [user-agent=lsp-proxy sid=n/a] lint session created sid=49 with the following options:
+cache_enabled: true, num_jobs: 6, session_type: 4, client_id: lsp-proxy, scope: 1
+[2026-04-22 17:12:34.067] [global] [info] [cache.cc:939] Unable to deserialize [monitor] [trufflehog:lint:app\projects\techstart\page.tsx:HEAD], removing from cache
+[2026-04-22 17:12:34.067] [global] [info] [cache.cc:974] [monitor] [trufflehog:lint:app\projects\techstart\page.tsx:HEAD] running linter (cache-key:cc9279a33473347a37c32096c9ce112e)
+[2026-04-22 17:12:34.130] [global] [info] [service.cc:145] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::Start(grpc::ServerContext *, const proto::v1::StartRequest *, grpc::ServerWriter<proto::v1::StartResponse> *) status=OK
+[2026-04-22 17:12:34.136] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *)
+[2026-04-22 17:12:34.369] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:34.369] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:34.369] [global] [info] [session_context.cc:167] Making commit info with id: 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:34.397] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:34.397] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:34.627] [global] [info] [service.cc:439] [user-agent=lsp-proxy sid=n/a] TX:virtual grpc::Status trunk::cli::lint::Service::GetChangedFiles(grpc::ServerContext *, const proto::v1::GetChangedFilesRequest *, proto::v1::GetChangedFilesResponse *) status=OK
+[2026-04-22 17:12:34.639] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=49] RX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *)
+[2026-04-22 17:12:34.649] [global] [info] [service.cc:409] [user-agent=lsp-proxy sid=49] TX:virtual grpc::Status trunk::cli::lint::Service::Queue(grpc::ServerContext *, const proto::v1::QueueRequest *, proto::v1::QueueResponse *) status=OK
+[2026-04-22 17:12:34.654] [global] [info] [service.cc:528] [user-agent= sid=49] RX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *)
+[2026-04-22 17:12:34.705] [global] [info] [cache.cc:978] [on-demand] [git-diff-check:lint:app\projects\techstart\page.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 17:12:34.713] [global] [info] [cache.cc:959] [on-demand] [trufflehog:lint:app\projects\techstart\page.tsx:HEAD] linting in progress, waiting (cache-key:cc9279a33473347a37c32096c9ce112e)
+[2026-04-22 17:12:34.728] [global] [info] [cache.cc:978] [on-demand] [prettier:format:app\projects\techstart\page.tsx:HEAD] running linter (uncacheable)
+[2026-04-22 17:12:35.005] [global] [info] [cache.cc:1117] [on-demand] [git-diff-check:lint:app\projects\techstart\page.tsx:HEAD] Linter ran in 299ms
+[2026-04-22 17:12:36.068] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:36.068] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:37.195] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.195] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.196] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.196] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.196] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.196] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\prettier\3.8.3-9c9474669329ea0930935313511759e9/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.196] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.196] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.196] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:12:37.455] [global] [info] [cache.cc:1117] [on-demand] [prettier:format:app\projects\techstart\page.tsx:HEAD] Linter ran in 2648ms
+[2026-04-22 17:12:37.753] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:37.753] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:42.752] [global] [info] [git_source_control.cc:517] Computing merge base between 4cbe7b4207ae9a9d223512b31a3e0264ee27a122 and 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:42.752] [global] [info] [git_source_control.cc:519] Resolved divergent commit as 4cbe7b4207ae9a9d223512b31a3e0264ee27a122
+[2026-04-22 17:12:44.016] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.016] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.016] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.016] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.017] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.017] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\trufflehog\3.94.3-8d48f61231211cd534bd0c25db4f4f12/Scripts\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.017] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.bat // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.017] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3 // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.017] [global] [warning] [resolve_binary.cc:46] is_regular_file check failed for for C:\Users\nasee\AppData\Local\trunk\tools\python\3.10.8-2211cb108575de2785d77a26a1f8d070/bin\python3.exe // 3:The system cannot find the path specified.
+[2026-04-22 17:12:44.193] [global] [info] [cache.cc:1117] [monitor] [trufflehog:lint:app\projects\techstart\page.tsx:HEAD] Linter ran in 10118ms
+[2026-04-22 17:12:44.402] [global] [info] [service.cc:528] [user-agent= sid=49] TX:virtual grpc::Status trunk::cli::lint::Service::Lint(grpc::ServerContext *, const proto::v1::LintRequest *, grpc::ServerWriter<proto::v1::LintResponse> *) status=OK
+[2026-04-22 17:12:44.406] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=49] RX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *)
+[2026-04-22 17:12:44.408] [global] [info] [service.cc:585] [user-agent=lsp-proxy sid=49] TX:virtual grpc::Status trunk::cli::lint::Service::GetLandingState(grpc::ServerContext *, const proto::v1::GetLandingStateRequest *, proto::v1::GetLandingStateResponse *) status=OK
+[2026-04-22 17:12:44.415] [global] [info] [service.cc:256] lint session ended sid=49
+[2026-04-22 17:12:44.415] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=49] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
+[2026-04-22 17:12:44.416] [global] [info] [service.cc:258] [user-agent=lsp-proxy sid=49] TX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *) status=OK
+[2026-04-22 17:12:44.416] [global] [info] [service.cc:325] [user-agent=lsp-proxy sid=n/a] RX:virtual grpc::Status trunk::cli::lint::Service::End(grpc::ServerContext *, const proto::v1::EndRequest *, proto::v1::EndResponse *)
